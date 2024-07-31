@@ -1,5 +1,0 @@
-.env
-.vscode
-*.zip
-package-lock.json
-**/.DS_Store
